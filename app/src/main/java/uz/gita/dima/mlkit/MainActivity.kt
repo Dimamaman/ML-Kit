@@ -32,8 +32,6 @@ import androidx.core.content.ContextCompat
             }
         }
 
-
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
